@@ -8,11 +8,8 @@
       "pip_name": "rich",
       "display_name": "Rich",
       "version": "13.7.1",
-      "category": "Output & Formatting",
       "description": "Colorful tables, progress bars, syntax highlighting and tracebacks for your script's console output.",
-      "icon": "✨",
       "install_type": "runtime",
-      "size_kb": 240,
       "requires_app_version": null
     },
     {
@@ -20,11 +17,8 @@
       "pip_name": "pillow",
       "display_name": "Pillow",
       "version": "11.0.0",
-      "category": "Imaging",
       "description": "Open, edit, and save images (PNG, JPEG, etc.) from your Python scripts.",
-      "icon": "🖼️",
       "install_type": "bundled",
-      "size_kb": 3200,
       "requires_app_version": "1.1.0"
     }
   ]
